@@ -1,0 +1,17 @@
+{
+    "name": "acer/web-assignment1_test1",
+    "autoload": {
+        "psr-4": {
+            "Acer\\WebAssignment1Test1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dinindu99",
+            "email": "peiristd-im18057@stu.kln.ac.lk"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    }
+}
